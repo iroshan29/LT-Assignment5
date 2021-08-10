@@ -1,0 +1,28 @@
+dn: uid=owen.hudson,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: Owen
+sn: Hudson
+employeeNumber: 100
+mail: owen.hudson@ltacademy.com
+mobile: 94771111111
+street: London
+uid: owen
+userPassword: 123
+
+
+dn: uid=rachel,ou=permanent,ou=staff,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: Rachel
+sn: Burgess
+employeeNumber: 101
+mail: rachel.burges@ltacademy.com
+mobile: 94771111112
+street: London
+uid: rachel
+userPassword: 123
