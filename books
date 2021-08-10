@@ -1,0 +1,5 @@
+dn: documentIdentifier=1001,ou=books,dc=ltacademy,dc=com
+documentTitle: Data Smart
+objectClass: document
+objectClass: top
+documentPublisher: Wiley
